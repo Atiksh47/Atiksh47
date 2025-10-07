@@ -2,6 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Atiksh+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </div>
 
+## 🎨 ASCII Art
+                                                   ╔══════════════════════════════════╗
+                                                   ║        🚀 Welcome to my          ║
+                                                   ║         GitHub Profile!          ║
+                                                   ║                                  ║
+                                                   ║   Code. Coffee. Repeat. ☕️       ║
+                                                   ╚══════════════════════════════════╝
+
 <br>
 
 <div align="center">
@@ -124,16 +132,6 @@ function myJourney() {
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=console.log(%22Hello%2C%20World!%22);;if(%20coffee%20%3D%3D%20empty%20)%20%7B%20debug%20%3D%20true%20%7D;while(%20project%20!%3D%20perfect%20)%20%7B%20keep%20coding()%20%7D;" alt="Typing SVG" />
   
 </div>
-
-## 🎨 ASCII Art
-
-
-                                                           ╔══════════════════════════════════╗
-                                                           ║        🚀 Welcome to my          ║
-                                                           ║         GitHub Profile!          ║
-                                                           ║                                  ║
-                                                           ║   Code. Coffee. Repeat. ☕️       ║
-                                                           ╚══════════════════════════════════╝
 
 
 ## 🏃‍♂️ My Coding Journey
