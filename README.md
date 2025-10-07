@@ -2,18 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Atiksh+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </div>
 
-## 🎨 ASCII Art
-                                                   ╔══════════════════════════════════╗
-                                                   ║        🚀 Welcome to my          ║
-                                                   ║         GitHub Profile!          ║
-                                                   ║                                  ║
-                                                   ║   Code. Coffee. Repeat. ☕️       ║
-                                                   ╚══════════════════════════════════╝
-
 <br>
 
 <div align="center">
-  <img src="https://github.com/Atiksh47/Atiksh47/assets/your-image-url" alt="Profile Picture" width="200" style="border-radius: 50%"/>
+  <img src="https://github.com/atiksh47/atiksh47/raw/main/profile-pic.png" alt="Profile Picture" width="200" style="border-radius: 50%"/>
 </div>
 
 <br>
