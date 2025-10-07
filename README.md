@@ -30,7 +30,9 @@ const atiksh = {
   interests: ["AI/ML", "Full-Stack Development", "Natural Language Processing"],
   currentlyLearning: ["Advanced AI Systems", "Cloud Computing", "System Design"],
   funFact: "I can solve a Rubik's cube in under 2 minutes while debugging code! 🧊⚡",
-  goal: "Creating AI-powered solutions that make a real impact"
+  coffeeConsumed: "∞ cups ☕",
+  bugsFixed: "Countless! 🐛➡️✨",
+  motivation: "Creating AI solutions that solve real-world problems!"
 };
 ```
 
@@ -97,16 +99,6 @@ function myJourney() {
     "Multilingual Audio Transcription & Translation"
   ];
   const building = ["AI Creative Writing Assistant", "Code Review Agent", "Advanced Compilers"];
-  
-  return {
-    status: "🎓 CS & AI Student at Purdue University",
-    graduation: "December 2026",
-    achievements: ["Dean's List", "Presidential Volunteer Service Award"],
-    currentFocus: "Full-Stack AI Development",
-    coffeeConsumed: "∞ cups ☕",
-    bugsFixed: "Countless! 🐛➡️✨",
-    motivation: "Creating AI solutions that solve real-world problems!"
-  };
 }
 ```
 
@@ -137,12 +129,12 @@ function myJourney() {
 ## 🎨 ASCII Art
 
 ```
-    ╔══════════════════════════════════╗
-    ║        🚀 Welcome to my          ║
-    ║         GitHub Profile!          ║
-    ║                                  ║
-    ║   Code. Coffee. Repeat. ☕️       ║
-    ╚══════════════════════════════════╝
+                                                                       ╔══════════════════════════════════╗
+                                                                       ║        🚀 Welcome to my          ║
+                                                                       ║         GitHub Profile!          ║
+                                                                       ║                                  ║
+                                                                       ║   Code. Coffee. Repeat. ☕️       ║
+                                                                       ╚══════════════════════════════════╝
 ```
 
 ## 🏃‍♂️ My Coding Journey
