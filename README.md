@@ -141,10 +141,6 @@ graph LR
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Atiksh47&color=blueviolet&style=for-the-badge)
-  
-  <br>
-  
   <i>Thanks for visiting my profile! Feel free to explore my repositories! ⭐</i>
   
 </div>
