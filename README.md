@@ -113,10 +113,9 @@ function myJourney() {
 </div>
 
 - 🎾 **Tennis**: Active member of Purdue Club Tennis team
-- 🤝 **Volunteering**: Mentor for kids and animal welfare advocate
+- 🤝 **Volunteering**: Aceing Autism and Cause for Paws
 - 🌍 **Languages**: Fluent in Hindi, Telugu, and Spanish
 - 🏛️ **Leadership**: Campus tour guide helping prospective students
-- 🎓 **Academics**: Dean's List student with Presidential Volunteer Service Award
 
 ## 💡 Random Developer Thoughts
 
@@ -128,14 +127,14 @@ function myJourney() {
 
 ## 🎨 ASCII Art
 
-```
-                                                                       ╔══════════════════════════════════╗
-                                                                       ║        🚀 Welcome to my          ║
-                                                                       ║         GitHub Profile!          ║
-                                                                       ║                                  ║
-                                                                       ║   Code. Coffee. Repeat. ☕️       ║
-                                                                       ╚══════════════════════════════════╝
-```
+
+                                                           ╔══════════════════════════════════╗
+                                                           ║        🚀 Welcome to my          ║
+                                                           ║         GitHub Profile!          ║
+                                                           ║                                  ║
+                                                           ║   Code. Coffee. Repeat. ☕️       ║
+                                                           ╚══════════════════════════════════╝
+
 
 ## 🏃‍♂️ My Coding Journey
 
@@ -170,7 +169,7 @@ graph LR
   
   <br>
   
-  <i>Thanks for visiting my profile! Feel free to explore my repositories and don't forget to star them if you find them interesting! ⭐</i>
+  <i>Thanks for visiting my profile! Feel free to explore my repositories! ⭐</i>
   
 </div>
 
