@@ -3,12 +3,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github.com/Atiksh47.png" alt="Profile Picture" width="200" style="border-radius: 50%"/>
-</div>
-
-<br>
 ---
 
 ## 👨‍💻 About Me
