@@ -5,18 +5,10 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/atiksh47/atiksh47/raw/main/profile-pic.png" alt="Profile Picture" width="200" style="border-radius: 50%"/>
+  <img src="https://github.com/Atiksh47.png" alt="Profile Picture" width="200" style="border-radius: 50%"/>
 </div>
 
 <br>
-
-<div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/Atiksh47?label=Follow&style=social)](https://github.com/Atiksh47)
-  [![GitHub stars](https://img.shields.io/github/stars/Atiksh47?label=Stars&style=social)](https://github.com/Atiksh47)
-  
-</div>
-
 ---
 
 ## 👨‍💻 About Me
