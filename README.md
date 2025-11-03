@@ -110,7 +110,7 @@ function myJourney() {
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=while(!success)+{+tryAgain();+};git+commit+-m+%22final_final_v2_really_final.js%22;throw+new+Error(%22It+worked+on+my+machine!%22);%2F%2F+TODO:+Make+this+repo+look+like+I+know+what+I'm+doing;const+life+=+debugMode+?+chaos+:+caffeine;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=while(!success)+{+tryAgain();+};;git+commit+-m+final_final_v2_really_final.js;;throw+new+Error(It+worked+on+my+machine!);;//+TODO:+Make+this+repo+look+like+I+know+what+I'm+doing;;const+life+=+debugMode+?+chaos+:+caffeine;" alt="Typing SVG" />
   
 </div>
 
