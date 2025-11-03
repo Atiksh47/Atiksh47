@@ -67,11 +67,6 @@ const atiksh = {
   <img src="https://img.shields.io/badge/Status-Building%20Awesome%20Projects-brightgreen?style=for-the-badge&logo=rocket" alt="Status" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Currently%20Working%20On-Full%20Stack%20Web%20Development-blue?style=for-the-badge&logo=code" alt="Working On" />
-</div>
 
 ## 🔨 Currently Working On
 
