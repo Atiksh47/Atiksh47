@@ -106,19 +106,15 @@ function myJourney() {
 - 🌍 **Languages**: Fluent in Hindi, Telugu, and Spanish
 - 🏛️ **Leadership**: Campus tour guide helping prospective students
 
+
 ## 💡 Random Developer Thoughts
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=while(!success)%20%7B%20tryAgain()%3B%20%7D;;git%20commit%20-m%20%22final_final_v2_really_final.js%22;;throw%20new%20Error%28%22It%20worked%20on%20my%20machine!%22%29;;%2F%2F%20TODO%3A%20Make%20this%20repo%20look%20like%20I%20know%20what%20I%27m%20doing;;const%20life%20%3D%20debugMode%20%3F%20chaos%20%3A%20caffeine%3B"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1200&pause=700&color=00D4AA&center=true&vCenter=true&width=600&lines=while(!success)%20tryAgain()%3B;git%20commit%20-m%20%22final_final_v2_really_final.js%22;throw%20new%20Error%28%22It%20worked%20on%20my%20machine!%22%29;%2F%2F%20TODO%3A%20Make%20this%20repo%20look%20like%20I%20know%20what%20I%27m%20doing;const%20life%20%3D%20debugMode%20%3F%20chaos%20%3A%20caffeine%3B"
     alt="Typing SVG"
   />
 </div>
-
-
-
-
-
 
 
 ## 📫 Let's Connect!
