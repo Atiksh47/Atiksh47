@@ -64,15 +64,15 @@ const atiksh = {
 ## 🔨 Currently Working On
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20Awesome%20Projects-brightgreen?style=for-the-badge&logo=rocket" alt="Status" />
+  
+  [![Currently Working On](https://img.shields.io/badge/Currently_Working_On-Scene--Composer-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atiksh47/Scene-Composer)
+  
 </div>
 
 </br>
 
 <div align="center">
-  
-  [![Currently Working On](https://img.shields.io/badge/Currently_Working_On-Scene--Composer-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atiksh47/Scene-Composer)
-  
+  <img src="https://img.shields.io/badge/Status-Building%20An%20Awesome%20Projects-brightgreen?style=for-the-badge&logo=rocket" alt="Status" />
 </div>
 
 
