@@ -73,6 +73,16 @@ const atiksh = {
   <img src="https://img.shields.io/badge/Currently%20Working%20On-Full%20Stack%20Web%20Development-blue?style=for-the-badge&logo=code" alt="Working On" />
 </div>
 
+## 🔨 Currently Working On
+
+<div align="center">
+  
+  [![Repository](https://img.shields.io/badge/🔗_Current_Project-Repository_Link-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/your-repo)
+  
+</div>
+
+> 💡 Replace the link above with your current project repository!
+
 ## 🚀 What I'm Up To
 
 ```javascript
