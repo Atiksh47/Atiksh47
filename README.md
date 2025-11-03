@@ -72,7 +72,7 @@ const atiksh = {
 </br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Building%20An%20Awesome%20Projects-brightgreen?style=for-the-badge&logo=rocket" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Building%20An%20Awesome%20Project-brightgreen?style=for-the-badge&logo=rocket" alt="Status" />
 </div>
 
 
