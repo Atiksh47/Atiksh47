@@ -76,7 +76,7 @@ const atiksh = {
 </div>
 
 
-## 🚀 What I'm Up To
+## 🚀 My Previous Experience
 
 ```javascript
 // My current journey in AI and development
@@ -87,7 +87,6 @@ function myJourney() {
     "RAG Pipeline for Multi-Database Systems", 
     "Multilingual Audio Transcription & Translation"
   ];
-  const building = ["AI Creative Writing Assistant", "Code Review Agent", "Advanced Compilers"];
 }
 ```
 
