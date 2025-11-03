@@ -77,7 +77,7 @@ const atiksh = {
 
 <div align="center">
   
-  [![Repository](https://img.shields.io/badge/🔗_Current_Project-Repository_Link-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atiksh47/Scene-Composer)
+  [![Currently Working On](https://img.shields.io/badge/Currently_Working_On-Scene--Composer-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atiksh47/Scene-Composer)
   
 </div>
 
