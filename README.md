@@ -81,7 +81,6 @@ const atiksh = {
   
 </div>
 
-> 💡 Replace the link above with your current project repository!
 
 ## 🚀 What I'm Up To
 
