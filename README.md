@@ -108,11 +108,14 @@ function myJourney() {
 
 ## 💡 Random Developer Thoughts
 
+## 💡 Random Developer Thoughts
+
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=console.log(%22Hello%2C%20World!%22);;if(%20coffee%20%3D%3D%20empty%20)%20%7B%20debug%20%3D%20true%20%7D;while(%20project%20!%3D%20perfect%20)%20%7B%20keep%20coding()%20%7D;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=while(!success)%20%7B%20tryAgain()%3B%20%7D;git%20commit%20-m%20%22final_final_v2_really_final.js%22;throw%20new%20Error(%22It%20worked%20on%20my%20machine!%22);%2F%2F%20TODO%3A%20Make%20this%20repo%20look%20like%20I%20know%20what%20I'm%20doing;const%20life%20%3D%20debugMode%20%3F%20chaos%20%3A%20caffeine%3B" alt="Typing SVG" />
   
 </div>
+
 
 
 ## 📫 Let's Connect!
