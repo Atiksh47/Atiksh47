@@ -115,20 +115,6 @@ function myJourney() {
 </div>
 
 
-## 🏃‍♂️ My Coding Journey
-
-```mermaid
-graph LR
-    A[👶 Started Coding] --> B[📚 Learning Basics]
-    B --> C[💻 First Project]
-    C --> D[🐛 Debugging Skills]
-    D --> E[🚀 Building Apps]
-    E --> F[🌟 Future Goals]
-    
-    style A fill:#ff9999
-    style F fill:#99ff99
-```
-
 ## 📫 Let's Connect!
 
 <div align="center">
