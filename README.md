@@ -65,7 +65,7 @@ const atiksh = {
 
 <div align="center">
   
-  [![Currently Working On](https://img.shields.io/badge/Currently_Working_On-Scene--Composer-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atiksh47/Music-synthesizer)
+  [![Currently Working On](https://img.shields.io/badge/Currently_Working_On-Music--Synthesizer-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atiksh47/Music-synthesizer)
   
 </div>
 
