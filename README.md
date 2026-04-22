@@ -81,11 +81,11 @@ const atiksh = {
 ```javascript
 // My current journey in AI and development
 function myJourney() {
-  const currentRole = "SWE and AI Intern at ONOW Enable";
+  const currentRole = "AI Engineer Intern at State Street";
   const recentProjects = [
-    "Natural Language-to-SQL Chatbot",
-    "RAG Pipeline for Multi-Database Systems", 
-    "Multilingual Audio Transcription & Translation"
+    "MVP AI Agent for Enterprise Pricing Platform",
+    "LLM Agent Evaluation Framework", 
+    "Global Collaboration on AI Solutions"
   ];
 }
 ```
@@ -103,7 +103,7 @@ function myJourney() {
 - 🎾 **Tennis**: Active member of Purdue Club Tennis team
 - 🤝 **Volunteering**: Aceing Autism and Cause for Paws
 - 🌍 **Languages**: Fluent in Hindi, Telugu, and Spanish
-- 🏛️ **Leadership**: Campus tour guide helping prospective students
+- 🏛️ **Leadership**: Recruitment Officer for Purdue tour guides
 
 
 ## 💡 Random Developer Thoughts
