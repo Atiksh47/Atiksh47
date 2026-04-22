@@ -10,14 +10,15 @@
 ```javascript
 const atiksh = {
   name: "Atiksh Kotikalapudi",
-  education: "Purdue University - B.S. in CS & AI, Minor in Business Economics",
+  education: "Purdue University - CS & AI, Minor in Business Economics",
   graduation: "Dec 2026",
-  workAuthorization: "Authorized to work in the U.S. without sponsorship",
   location: "📍 West Lafayette, IN",
-  interests: ["AI Agent Development", "Full-Stack Development", "RAG Systems", "NLP"],
+  interests: ["AI/ML", "Full-Stack Development", "Natural Language Processing"],
   currentlyLearning: ["Advanced AI Systems", "Cloud Computing", "System Design"],
-  funFact: "I debug code while building AI that solves real-world problems! 🐛➡️✨",
-  motivation: "Creating reliable AI solutions for enterprise platforms!"
+  funFact: "I can solve a Rubik's cube in under 2 minutes while debugging code! 🧊⚡",
+  coffeeConsumed: "∞ cups ☕",
+  bugsFixed: "Countless! 🐛➡️✨",
+  motivation: "Creating AI solutions that solve real-world problems!"
 };
 ```
 
@@ -64,47 +65,30 @@ const atiksh = {
 
 <div align="center">
   
-  [![Currently Working On](https://img.shields.io/badge/Currently_Working_On-AI_Agent_for_Pricing_Platform-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atiksh47)  <!-- Update with actual repo if available -->
+  [![Currently Working On](https://img.shields.io/badge/Currently_Working_On-Music--Synthesizer-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atiksh47/Music-synthesizer)
   
 </div>
 
 </br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Developing_MVP_AI_Agent-brightgreen?style=for-the-badge&logo=rocket" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Building%20An%20Awesome%20Project-brightgreen?style=for-the-badge&logo=rocket" alt="Status" />
 </div>
 
-## 🚀 Experience
 
-- **AI Engineer Intern** at State Street (Jan 2026 - Present)
-  - Developed MVP AI agent for enterprise pricing platform using agentic architecture.
-  - Building evaluation framework for LLM agents with testing strategies and guardrails.
-  - Collaborating globally and presenting to CIO for enterprise adoption.
+## 🚀 My Previous Experience
 
-- **SWE and AI Intern** at ONOW Enable (May 2025 - Jul 2025)
-  - Built NL-to-SQL chatbot with real-time visualizations.
-  - Designed RAG pipeline for multi-database querying.
-  - Developed backend for multilingual audio transcription/translation bots.
-
-- **Front-End Developer Intern** at Construction Code Inspections (Jun 2024 - Sep 2024)
-  - Built responsive website for subsidiary, enhancing digital presence.
-
-- **Campus Tour Guide** at Purdue Admissions (Jan 2025 - Dec 2025)
-  - Led tours and info sessions for prospective students.
-
-## 🛠️ Projects
-
-- **Program Execution Story Engine** (Python, FastAPI, React, sys.settrace, Claude API)
-  - Execution tracing system capturing runtime states and generating JSON timelines.
-  - React interface for step-by-step program inspection.
-
-- **Code to Music Synthesizer** (Python, AST, React, Web Audio API)
-  - Compiler converting Python programs to musical compositions.
-  - Real-time audio engine with polyphonic management.
-
-- **AI Scene Composer** (FastAPI, React, Ollama, Stable Diffusion APIs)
-  - Multimodal system for story-to-storyboard conversion.
-  - Pipeline combining LLMs and image synthesis.
+```javascript
+// My current journey in AI and development
+function myJourney() {
+  const currentRole = "SWE and AI Intern at ONOW Enable";
+  const recentProjects = [
+    "Natural Language-to-SQL Chatbot",
+    "RAG Pipeline for Multi-Database Systems", 
+    "Multilingual Audio Transcription & Translation"
+  ];
+}
+```
 
 ## 🎮 Fun Facts About Me
 
@@ -116,9 +100,11 @@ const atiksh = {
   
 </div>
 
-- 🤝 **Volunteering**: Aceing Autism (2021–), Mentor For Kids (2024–), Cause for Paws (2024–)
+- 🎾 **Tennis**: Active member of Purdue Club Tennis team
+- 🤝 **Volunteering**: Aceing Autism and Cause for Paws
 - 🌍 **Languages**: Fluent in Hindi, Telugu, and Spanish
 - 🏛️ **Leadership**: Campus tour guide helping prospective students
+
 
 ## 💡 Random Developer Thoughts
 
@@ -128,6 +114,7 @@ const atiksh = {
     alt="Typing SVG"
   />
 </div>
+
 
 ## 📫 Let's Connect!
 
